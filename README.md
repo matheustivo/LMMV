@@ -1,10 +1,6 @@
- # Matheus
+# Matheus
  
- ---- 
-
-Endereço: XXXXX - Marília - SP
-
------
+---- 
 
 Idade: 18 anos
 
@@ -25,3 +21,7 @@ Hobbie: jogar fifa
 Plataforma: IOS
 
 ---- 
+
+experiencia: 
+
+aluno unimar.
