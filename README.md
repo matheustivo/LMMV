@@ -10,11 +10,11 @@ Instagram: m.tivoo_
 
 ----
 
-Profissão: Estudante universitario 
+Profissão: Estudante Universitário 
 
 ----
 
-Hobbie: jogar fifa
+Hobbie: Jogar FIFA
 
 ----
 
@@ -22,6 +22,6 @@ Plataforma: IOS
 
 ---- 
 
-experiencia: 
+Experiência: 
 
-aluno unimar.
+Aluno Unimar.
