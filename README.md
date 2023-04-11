@@ -24,4 +24,5 @@ Plataforma: IOS
 
 Experiência: 
 
-Aluno Unimar.
+Aluno Unimar. (ads)
+
